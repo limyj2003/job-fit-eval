@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+.Rhistory
+results/.request.json
+context/profile.md
+context/resume.md

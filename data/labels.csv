@@ -1,0 +1,45 @@
+id,company,role,link,expected_decision,expected_fit,expected_gap,skip_reason,reviewed
+s01,Mercor,Strategic Project Associate,https://jobs.ashbyhq.com/mercor/b560990b-6743-4db3-8953-98d5f55e4af1,add,high,grad_window,,no
+s02,Mercor,Enterprise AI Associate,https://jobs.ashbyhq.com/mercor/50a58426-2e97-43a5-99b1-d0d9cdc88100,add,high,years,,no
+s03,Alleviate Health,Operations Associate,https://jobs.ashbyhq.com/alleviatehealth/30c31d7e-d76a-46e3-9cc9-a55d55e22683,add,high,years,,no
+s04,Loop,AI Operations Associate,https://ats.rippling.com/loop/jobs/9191b3df-1a8b-46d2-a1b4-1420da7b09f7,add,medium,python,,no
+s05,Vooma,Operations Associate - Deployments,https://jobs.ashbyhq.com/vooma/e48e6671-96e2-4c37-a884-263aa87891fc,add,high,years,,no
+s06,Pallet,Associate Deployment Strategist (AI/ML Product),https://job-boards.greenhouse.io/pallet/jobs/5265290007,add,high,years,,no
+s07,Sierra,"Strategist, Agent Development",https://jobs.ashbyhq.com/Sierra/c25ca18c-dbe6-439d-9a40-ce23b40c323c,add,high,none,,no
+s08,Sierra,"Strategist, Agent Development - Healthcare",https://jobs.ashbyhq.com/Sierra/a2e49318-5967-4509-a592-56f089647b32,add,high,none,,no
+s09,Handshake,Strategic Projects Lead,https://jobs.ashbyhq.com/handshake/c5753428-968f-4142-9dbc-49d419f0a020,add,high,years,,no
+s10,Decagon,"Founders' Office, Business Operations",https://jobs.ashbyhq.com/decagon/c309c767-3553-42e1-81ec-73cc3b88c2ce,add,medium,years,,no
+s11,Ramp,University Grad | Customer Experience Associate,https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936,add,medium,none,,no
+s12,Ramp,Product Operations | General Builder (All Levels),https://jobs.ashbyhq.com/ramp/e0cca3aa-24f7-46ca-9493-9984a7ae2285,add,medium,years,,no
+s13,Mercor,"Research Operations, Code",https://jobs.ashbyhq.com/mercor/f87ea934-5550-48d0-aea6-eb24daf8ed4f,skip,,,stem_degree,yes
+s14,Alleviate Health,Business Operations,https://jobs.ashbyhq.com/alleviatehealth/05bc6239-838c-41f4-a8cd-509f96ee0bc1,add,medium,years,,no
+s15,Vooma,Deployment Strategist,https://jobs.ashbyhq.com/vooma/4550de5c-719d-45e5-9e0a-5ee662259bce,skip,,,too_senior,yes
+s16,Pallet,Strategy and Ops,https://job-boards.greenhouse.io/pallet/jobs/5274714007,add,medium,none,,no
+s17,Scale AI,"Strategic Projects Lead, Generative AI",https://job-boards.greenhouse.io/scaleai/jobs/4282118005,add,medium,years,,no
+s18,Cognition,Business Operations,https://jobs.ashbyhq.com/cognition/170ec744-c6b9-4d75-bdb1-f1eaf5e24d79,add,medium,stem_degree,,yes
+s19,Invisible Technologies,Enterprise Solutions Associate - Data Labs,https://job-boards.eu.greenhouse.io/invisibletech/jobs/4649462101,add,medium,none,,no
+s20,Flexport,Global Operations Associate,https://job-boards.greenhouse.io/flexport/jobs/7450540,add,low,domain,,no
+s21,OpenAI,"Data Program Manager, Human Data",https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213,add,high,years,,no
+s22,Sierra,"Strategist, Agent Development - Travel, Transportation and Hospitality",https://jobs.ashbyhq.com/Sierra/1e40515a-c2d9-4657-8a44-a99d6d49b15b,add,high,none,,no
+s23,Ramp,Customer Activation Manager | Scaled,https://jobs.ashbyhq.com/ramp/94d79eed-34db-42c8-b47c-5edef335b7f2,skip,,,too_senior,yes
+s24,Plaid,Product Operations Specialist,https://jobs.ashbyhq.com/plaid/a063f469-1ec5-44d1-8cc5-1da47a7b8783,add,medium,domain,,no
+s25,Commure,"Operations Manager, Air",https://jobs.ashbyhq.com/Commure/3c2d58e0-d67c-4cdb-8db1-c365a0461dd2,add,medium,years,,no
+s26,Mercor,"Program Manager, Quality",https://jobs.ashbyhq.com/mercor/0843acbc-3614-48a0-957d-1f8ed0497bf0,skip,,,too_senior,yes
+s27,Decagon,Revenue Operations Associate,https://jobs.ashbyhq.com/decagon/a37149ba-06c8-4b3a-8965-4c4eff89bee7,add,medium,years,,no
+s28,Handshake,"Strategic Projects Lead, STEM",https://jobs.ashbyhq.com/handshake/09d15a6d-4eea-414b-91ca-3e2628a0b43d,skip,,,stem_degree,no
+s29,Handshake,"Strategic Projects Lead, Coding/Frontier",https://jobs.ashbyhq.com/handshake/32793d99-af94-4966-bdb9-ab6866254e5b,skip,,,coding_required,no
+s30,Scale AI,Enterprise AI Development Strategist,https://job-boards.greenhouse.io/scaleai/jobs/4741087005,skip,,,sales,no
+s31,Mercor,Growth Associate,https://jobs.ashbyhq.com/mercor/63c60be0-6b52-4037-910f-dae8d21aa41d,skip,,,sales,yes
+s32,Mercor,Healthcare GTM Associate,https://jobs.ashbyhq.com/mercor/12ef2db7-5a92-417b-b101-8779b6fc71d0,skip,,,sales,no
+s33,OpenAI,Account Associate - SF,https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7,skip,,,sales,no
+s34,Decagon,"Strategy and Operations, Customers",https://jobs.ashbyhq.com/decagon/ea1a3ad6-53ba-46fd-939a-3ab4c982b117,skip,,,too_senior,no
+s35,Plaid,Business Operations,https://jobs.ashbyhq.com/plaid/6b08e0e9-2159-4002-bf54-b30dd5bda80c,skip,,,too_senior,no
+s36,Notion,Business Operations & Strategy,https://jobs.ashbyhq.com/notion/0d000633-4a69-4dae-ab5f-da19b5ab8cc0,skip,,,too_senior,no
+s37,OpenAI,AI Deployment Manager,https://jobs.ashbyhq.com/openai/5d66a54f-ad89-4155-ac37-9dcd7d52db34,skip,,,too_senior,no
+s38,Turing,Marketplace Operations Lead,https://job-boards.greenhouse.io/turing/jobs/6235204004,skip,,,too_senior,no
+s39,Profound,Implementation Manager,https://jobs.ashbyhq.com/Profound/7394c1b2-c62a-4fce-babc-6e85110370c0,skip,,,too_senior,no
+s40,Ramp,"Analyst, Deal Operations",https://jobs.ashbyhq.com/ramp/7e531974-caac-46a2-804e-c6c3140bfda4,skip,,,too_senior,yes
+s41,Harvey,CX Data Analyst,https://jobs.ashbyhq.com/harvey/ecfc45be-fc15-4c16-a419-509c998b6c80,skip,,,too_senior,no
+s42,Scale AI,Frontier Data Strategist,https://job-boards.greenhouse.io/scaleai/jobs/4687052005,skip,,,coding_required,no
+s43,Cresta,AI Deployment Manager,https://job-boards.greenhouse.io/cresta/jobs/5078921008,skip,,,location,no
+s44,Decagon,Agent Strategy Manager,https://jobs.ashbyhq.com/decagon/7ae498c6-750d-43ab-8ad2-ab05b75684eb,skip,,,too_senior,no

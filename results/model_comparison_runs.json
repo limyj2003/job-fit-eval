@@ -1,0 +1,65 @@
+{
+ "prompt": "v4",
+ "runs": [
+  {
+   "model": "anthropic/claude-sonnet-5.5",
+   "file": "20261115-2307_anthropic_claude-sonnet-5.5_v4.jsonl",
+   "new": false,
+   "ok": true
+  },
+  {
+   "model": "rules",
+   "file": "20261118-1426_rules_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "anthropic/claude-haiku-5.5",
+   "file": "20261118-1428_anthropic_claude-haiku-5.5_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "anthropic/claude-haiku-5.5",
+   "file": "20261118-1431_anthropic_claude-haiku-5.5_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "anthropic/claude-haiku-5.5",
+   "file": "20261118-1434_anthropic_claude-haiku-5.5_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "deepseek/deepseek-v4.1-flash-1017",
+   "file": "20261118-1437_deepseek_deepseek-v4.1-flash-1017_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "deepseek/deepseek-v4.1-flash-1017",
+   "file": "20261118-1441_deepseek_deepseek-v4.1-flash-1017_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "deepseek/deepseek-v4.1-flash-1017",
+   "file": "20261118-1445_deepseek_deepseek-v4.1-flash-1017_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "anthropic/claude-sonnet-5.5",
+   "file": "20261118-1448_anthropic_claude-sonnet-5.5_v4.jsonl",
+   "new": true,
+   "ok": true
+  },
+  {
+   "model": "anthropic/claude-sonnet-5.5",
+   "file": "20261118-1450_anthropic_claude-sonnet-5.5_v4.jsonl",
+   "new": true,
+   "ok": true
+  }
+ ]
+}
